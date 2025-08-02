@@ -1,0 +1,6 @@
+@Vidya_AI_Study_Companion_HostAddress = http://localhost:5223
+
+GET {{Vidya_AI_Study_Companion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
