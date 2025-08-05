@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Migrations\\20250802064815_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250802064815_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|c:\\users\\shriram sabade\\source\\repos\\vidya ai study companion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|c:\\users\\shriram sabade\\source\\repos\\vidya ai study companion\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|c:\\users\\shriram sabade\\source\\repos\\vidya ai study companion\\vidya ai study companion.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|solutionrelative:vidya ai study companion.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|c:\\users\\shriram sabade\\source\\repos\\vidya ai study companion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|c:\\users\\shriram sabade\\source\\repos\\vidya ai study companion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|c:\\users\\shriram sabade\\source\\repos\\vidya ai study companion\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|c:\\users\\shriram sabade\\source\\repos\\vidya ai study companion\\models\\summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|solutionrelative:models\\summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|c:\\users\\shriram sabade\\source\\repos\\vidya ai study companion\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|c:\\users\\shriram sabade\\source\\repos\\vidya ai study companion\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|c:\\users\\shriram sabade\\source\\repos\\vidya ai study companion\\models\\studymaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|solutionrelative:models\\studymaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|c:\\users\\shriram sabade\\source\\repos\\vidya ai study companion\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|solutionrelative:models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|c:\\users\\shriram sabade\\source\\repos\\vidya ai study companion\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0807528-E488-4BAD-AB43-21DD310164B6}|Vidya AI Study Companion.csproj|solutionrelative:controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,100 +47,89 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250802064815_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Migrations\\20250802064815_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250802064815_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Migrations\\20250802064815_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20250802064815_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T06:48:16.214Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T15:14:46.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T06:24:05.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T06:18:37.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Feedback.cs",
-              "DocumentMoniker": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Models\\Feedback.cs",
-              "RelativeDocumentMoniker": "Models\\Feedback.cs",
-              "ToolTip": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Models\\Feedback.cs",
-              "RelativeToolTip": "Models\\Feedback.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T06:15:18.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "Models\\Tag.cs",
-              "ToolTip": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Models\\Tag.cs",
-              "RelativeToolTip": "Models\\Tag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T06:14:24.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudyMaterial.cs",
-              "DocumentMoniker": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Models\\StudyMaterial.cs",
-              "RelativeDocumentMoniker": "Models\\StudyMaterial.cs",
-              "ToolTip": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Models\\StudyMaterial.cs",
-              "RelativeToolTip": "Models\\StudyMaterial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T06:13:40.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Summary.cs",
-              "DocumentMoniker": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Models\\Summary.cs",
-              "RelativeDocumentMoniker": "Models\\Summary.cs",
-              "ToolTip": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Models\\Summary.cs",
-              "RelativeToolTip": "Models\\Summary.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T06:12:59.329Z"
+              "WhenOpened": "2025-08-05T15:11:28.313Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Models\\Users.cs",
-              "RelativeDocumentMoniker": "Models\\Users.cs",
-              "ToolTip": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Models\\Users.cs",
-              "RelativeToolTip": "Models\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T15:11:26.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vidya AI Study Companion.http",
+              "DocumentMoniker": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Vidya AI Study Companion.http",
+              "RelativeDocumentMoniker": "Vidya AI Study Companion.http",
+              "ToolTip": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Vidya AI Study Companion.http",
+              "RelativeToolTip": "Vidya AI Study Companion.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-05T15:09:28.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T06:10:17.331Z"
+              "WhenOpened": "2025-08-05T15:06:43.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwIoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T14:54:49.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FeedbacksController.cs",
+              "DocumentMoniker": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Controllers\\FeedbacksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedbacksController.cs",
+              "ToolTip": "C:\\Users\\SHRIRAM SABADE\\source\\repos\\Vidya AI Study Companion\\Controllers\\FeedbacksController.cs",
+              "RelativeToolTip": "Controllers\\FeedbacksController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:24:10.779Z"
             }
           ]
         }

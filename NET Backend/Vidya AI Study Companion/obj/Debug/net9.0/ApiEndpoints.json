@@ -1,0 +1,574 @@
+[
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.FeedbacksController",
+    "Method": "GetFeedbacks",
+    "RelativePath": "api/Feedbacks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Vidya_AI_Study_Companion.Models.Feedback, Vidya AI Study Companion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.FeedbacksController",
+    "Method": "PostFeedback",
+    "RelativePath": "api/Feedbacks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "feedback",
+        "Type": "Vidya_AI_Study_Companion.Models.Feedback",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Vidya_AI_Study_Companion.Models.Feedback",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.FeedbacksController",
+    "Method": "GetFeedback",
+    "RelativePath": "api/Feedbacks/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Vidya_AI_Study_Companion.Models.Feedback",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.FeedbacksController",
+    "Method": "PutFeedback",
+    "RelativePath": "api/Feedbacks/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "feedback",
+        "Type": "Vidya_AI_Study_Companion.Models.Feedback",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.FeedbacksController",
+    "Method": "DeleteFeedback",
+    "RelativePath": "api/Feedbacks/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.StudyMaterialsController",
+    "Method": "GetStudyMaterials",
+    "RelativePath": "api/StudyMaterials",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Vidya_AI_Study_Companion.Models.StudyMaterial, Vidya AI Study Companion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.StudyMaterialsController",
+    "Method": "PostStudyMaterial",
+    "RelativePath": "api/StudyMaterials",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studyMaterial",
+        "Type": "Vidya_AI_Study_Companion.Models.StudyMaterial",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Vidya_AI_Study_Companion.Models.StudyMaterial",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.StudyMaterialsController",
+    "Method": "GetStudyMaterial",
+    "RelativePath": "api/StudyMaterials/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Vidya_AI_Study_Companion.Models.StudyMaterial",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.StudyMaterialsController",
+    "Method": "PutStudyMaterial",
+    "RelativePath": "api/StudyMaterials/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "studyMaterial",
+        "Type": "Vidya_AI_Study_Companion.Models.StudyMaterial",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.StudyMaterialsController",
+    "Method": "DeleteStudyMaterial",
+    "RelativePath": "api/StudyMaterials/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.SummariesController",
+    "Method": "GetSummaries",
+    "RelativePath": "api/Summaries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Vidya_AI_Study_Companion.Models.Summary, Vidya AI Study Companion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.SummariesController",
+    "Method": "PostSummary",
+    "RelativePath": "api/Summaries",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "summary",
+        "Type": "Vidya_AI_Study_Companion.Models.Summary",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Vidya_AI_Study_Companion.Models.Summary",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.SummariesController",
+    "Method": "GetSummary",
+    "RelativePath": "api/Summaries/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Vidya_AI_Study_Companion.Models.Summary",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.SummariesController",
+    "Method": "PutSummary",
+    "RelativePath": "api/Summaries/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "summary",
+        "Type": "Vidya_AI_Study_Companion.Models.Summary",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.SummariesController",
+    "Method": "DeleteSummary",
+    "RelativePath": "api/Summaries/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.TagsController",
+    "Method": "GetTags",
+    "RelativePath": "api/Tags",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Vidya_AI_Study_Companion.Models.Tag, Vidya AI Study Companion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.TagsController",
+    "Method": "PostTag",
+    "RelativePath": "api/Tags",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tag",
+        "Type": "Vidya_AI_Study_Companion.Models.Tag",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Vidya_AI_Study_Companion.Models.Tag",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.TagsController",
+    "Method": "GetTag",
+    "RelativePath": "api/Tags/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Vidya_AI_Study_Companion.Models.Tag",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.TagsController",
+    "Method": "PutTag",
+    "RelativePath": "api/Tags/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tag",
+        "Type": "Vidya_AI_Study_Companion.Models.Tag",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.TagsController",
+    "Method": "DeleteTag",
+    "RelativePath": "api/Tags/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.UsersController",
+    "Method": "GetUsers",
+    "RelativePath": "api/Users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.Object, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.UsersController",
+    "Method": "PostUser",
+    "RelativePath": "api/Users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Vidya_AI_Study_Companion.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Vidya_AI_Study_Companion.Models.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.UsersController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/Users/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.UsersController",
+    "Method": "GetUser",
+    "RelativePath": "api/Users/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Vidya_AI_Study_Companion.Models.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.UsersController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Users/change-password",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Vidya_AI_Study_Companion.DTOs.ChangePasswordDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.UsersController",
+    "Method": "Login",
+    "RelativePath": "api/Users/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "Vidya_AI_Study_Companion.DTOs.UserLoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vidya_AI_Study_Companion.Controllers.UsersController",
+    "Method": "Register",
+    "RelativePath": "api/Users/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Vidya_AI_Study_Companion.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
